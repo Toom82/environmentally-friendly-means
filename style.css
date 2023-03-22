@@ -1,0 +1,62 @@
+body{
+    background-image: url(img/sfondo.jpg);
+    background-size: cover;
+}
+.riquadro-sfondo{
+    width: 800px;
+    margin: auto;
+    border-radius: 10px;   
+    background-color: rgba(0,0,0,0.5);  
+    padding: 55px;
+}
+.logo{
+max-width: 200px; max-height: 100px;
+}
+header{
+    text-align: center;   
+    color: rgb(0, 233, 23);
+}
+header > h2{
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navigatore{
+    text-align: center;
+    background-color: rgb(0, 233, 23);
+    padding: 8px;    
+}
+.paragrafi .navigatore{
+    margin-left: 65px;
+    margin-right: 65px;
+}
+.paragrafi{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: 24px;
+}
+.Batteria-Gino22 {
+    text-align: center;
+    background-color: rgb(233, 183, 0);
+    padding: 10px;
+    border-radius: 4px;
+    width: 270px;  
+}
+.Batteria-Mike24{
+    text-align: center;
+    background-color: rgb(70, 233, 0);
+    padding: 10px;
+    border-radius: 4px;
+    width: 450px;
+}
+.Batteria-Fede154{
+    text-align: center;
+    background-color: rgb(208 68 9);
+    padding: 10px;
+    border-radius: 4px;
+    width: 111px;
+}
+footer{ 
+    display: none;
+}
+    
+
